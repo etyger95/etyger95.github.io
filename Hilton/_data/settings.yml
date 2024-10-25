@@ -12,6 +12,10 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'CV'
+      url: '/EllieTyger_oct24.pdf/'
     # - title: 'Projects'
     #  url: '/projects/'
     #- title: 'Blog'
