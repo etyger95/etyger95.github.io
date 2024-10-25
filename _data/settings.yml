@@ -15,7 +15,7 @@ menu__settings:
     - title: 'About'
       url: '/about/'
     - title: 'CV'
-      url: '/EllieTyger_oct24.pdf/'
+      url: 'https://www.ellietyger.com/EllieTyger_oct24.pdf'
     # - title: 'Projects'
     #  url: '/projects/'
     #- title: 'Blog'
