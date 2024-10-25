@@ -62,6 +62,10 @@ footer_menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'CV'
+      url: '/cv/'
 #    - title: 'Projects'
 #      url: '/projects/'
 #    - title: 'Blog'
