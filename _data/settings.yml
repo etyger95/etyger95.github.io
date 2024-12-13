@@ -52,7 +52,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: I'm Ellie. Current economics PhD student.
+  hero__title: I'm Ellie. Current Economics PhD student at Stanford University.
   hero__description: On the job market in 2024-25. Interested in market design, computer science, and the intersection thereof. 
   hero__image: '/images/homepage.jpeg'
 
