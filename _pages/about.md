@@ -20,7 +20,7 @@ Otherwise, I'm likely to be playing music on either the piano or the violin. I h
 
 If I'm not reading or practicing music, I'm probably keeping up with one of my favorite sports teams. My time in San Francisco has converted me to an avid Giants and Warriors fan. From April to October, there is a good chance I have a baseball game on in the background (Giants, Pirates, or Tigers preferred). However, when it comes to football, I will never abandon my beloved Pittsburgh Steelers #SteelerNation.
 
-If all else fails, I can be found snuggling with my two Italian Greyhounds, Zelda and Thelonious, working on my latest knitting project (my favorite blanket featured is below!). 
+If all else fails, I can be found snuggling with my two Italian Greyhounds, Zelda and Thelonious, working on my latest knitting project (my favorite blanket featured below!). 
 
 <div class="gallery-box">
   <div class="gallery">
